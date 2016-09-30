@@ -18,7 +18,7 @@
 	font-size: 1.5em;
 }
 
-#navbar-styling button.navbar-toggle .icon-bar {
+#navbar-styling button.navbar-toggle .icon-bar{
   border: 1px solid rgb(255,10,50);
   background: blue;
 }
