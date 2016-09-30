@@ -1,3 +1,7 @@
+body{
+	background-color:#f6b319;
+}
+
 #navbar-styling{
 	background-color: rgba(25,255,25,0.9);
 	border: 5px solid rgb(50,25,255);
