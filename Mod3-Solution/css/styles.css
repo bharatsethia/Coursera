@@ -1,0 +1,52 @@
+#navbar-styling{
+	background-color: rgba(25,255,25,0.9);
+	border: 5px solid rgb(50,25,255);
+}
+
+
+#brandname-styling{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+	color: rgb(255,10,50);
+	font-size: 4em;
+	margin-left: 0px;
+}
+
+#collapsable-nav{
+	color:blue;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+#navbar-styling button.navbar-toggle .icon-bar {
+  border: 1px solid rgb(255,10,50);
+  background: blue;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#title-styling{
+	font-size: 3em;
+	color: blue;
+	background: red;
+	font-weight: 800;
+	margin-top: 100px;
+}
+
+#content-header{
+	font-size: 2.5em;
+	color: red;
+	background-color: blue;
+	font-weight: 700;
+	text-align: center;
+}
+
+#content-styling{
+	font-size: 2em;
+	color: white;
+	background-color: red;
+	font-weight: 500;
+	text-align: justify;
+}
